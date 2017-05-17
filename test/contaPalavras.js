@@ -1,10 +1,6 @@
-function contaPalavras (
-  var
+const contaPalavras = function (frase){
+  var palavras
 
-){
-
-
-
- "Meu nome é Rodrigo".split('').legth
+ var palavra.split('').legth
  }
 module.exports = {contaPalavras};
