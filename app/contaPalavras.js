@@ -1,5 +1,6 @@
 const contaPalavras = function (frase){
+  var palavras
 
-  return {quantidade:frase.split('').legth}
+ var palavra.split('').legth
  }
 module.exports = {contaPalavras};
