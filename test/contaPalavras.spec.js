@@ -7,7 +7,7 @@ const {contaPalavras} = require('../app/contaPalavras');
 
 lab.experiment('Teste com 2 palavras', () => {
   lab.test('Deve retornar 2', (done) => {
-  expect(contaPalavras("Olá tudo")).to.qual({quantidade:2 });
+  expect(contaPalavras("Ola tudo")).to.qual({quantidade: 2 });
   done();
  });
 });
